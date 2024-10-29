@@ -297,7 +297,7 @@
 				<key>Comment</key>
 				<string></string>
 				<key>Enabled</key>
-				<false/>
+				<true/>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/IntelBluetoothFirmware</string>
 				<key>MaxKernel</key>
@@ -315,7 +315,7 @@
 				<key>Comment</key>
 				<string></string>
 				<key>Enabled</key>
-				<false/>
+				<true/>
 				<key>ExecutablePath</key>
 				<string></string>
 				<key>MaxKernel</key>
@@ -333,7 +333,7 @@
 				<key>Comment</key>
 				<string></string>
 				<key>Enabled</key>
-				<false/>
+				<true/>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/IntelBTPatcher</string>
 				<key>MaxKernel</key>
@@ -973,7 +973,7 @@
 				<key>bluetoothInternalControllerInfo</key>
 				<data>AAAAAAAAAAAAAAAAAAA=</data>
 				<key>boot-args</key>
-				<string>-v alcid=3 watchdog=0 igfxonln=1 agdpmod=vit9696 -vi2c-force-polling -igfxblr -igfxblt -noDC9 igfxfw=2 igfxagdc=0 -wegnoegpu TSC_sync_margin=0 keepsyms=1  -lilubetaall</string>
+				<string>-v alcid=3 watchdog=0 igfxonln=1 agdpmod=vit9696 -vi2c-force-polling -igfxblr -igfxblt -noDC9 igfxfw=2 igfxagdc=0 -wegnoegpu TSC_sync_margin=0 keepsyms=1  -lilubetaall amfi=0x80</string>
 				<key>csr-active-config</key>
 				<data>7w8AAA==</data>
 				<key>prev-lang:kbd</key>
